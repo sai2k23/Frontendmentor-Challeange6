@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+body {
+    background-color: #f3eae3;
+}
+.product-left {
+    margin-top: 200px;
+    margin-left: 350px;
+}
+.left-img {
+    height: 450px;
+    width: 350px;
+    border-radius: 10px;
+}
+.product-right {
+    margin-top: 200px;
+    background-color: #fff;
+    border-radius: 10px;
+}
+.right-p {
+    color:#c9cbd5;
+    padding-top: 15px;
+}
+.second-heading {
+    font-size: 25px;
+    font-family: "Merriweather", serif;
+}
+.right-p2 {
+    color: #bebfc5;
+    font-size: 15px;
+}
+.right-p3 {
+    color: #4a866f;
+    font-size: 40px;
+    font-family: "Merriweather", serif;
+}
+.sub-p {
+    font-size: 15px;
+    color: #bebfc5;
+}
+.right-p4 {
+    border: 1px solid #3d8168;
+    font-size: 25px;
+    background-color: #3d8168;
+    color: #fff;
+    text-align: center;
+    margin-left: 70px;
+    margin-right: 70px;
+    border-radius: 10px;
+}
